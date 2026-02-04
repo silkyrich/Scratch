@@ -9,6 +9,9 @@ import 'screens/favorites_screen.dart';
 import 'screens/team_screen.dart';
 import 'services/app_state.dart';
 
+/// Global key for the RepaintBoundary used by feedback screenshot capture.
+final screenshotKey = GlobalKey();
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await AppState().init();
@@ -43,7 +46,9 @@ class PokemonDbApp extends StatelessWidget {
     return ListenableBuilder(
       listenable: AppState(),
       builder: (context, _) {
-        return MaterialApp.router(
+        return RepaintBoundary(
+          key: screenshotKey,
+          child: MaterialApp.router(
           title: 'Pokémon Database',
           debugShowCheckedModeBanner: false,
           themeMode: AppState().themeMode,
@@ -72,6 +77,7 @@ class PokemonDbApp extends StatelessWidget {
             ),
           ),
           routerConfig: _router,
+        ),
         );
       },
     );

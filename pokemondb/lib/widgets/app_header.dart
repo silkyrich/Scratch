@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import '../main.dart' show screenshotKey;
 import '../services/app_state.dart';
+import 'feedback_dialog.dart';
 
 class AppHeader extends StatelessWidget implements PreferredSizeWidget {
   const AppHeader({super.key});
@@ -62,6 +64,15 @@ class AppHeader extends StatelessWidget implements PreferredSizeWidget {
             tooltip: appState.themeMode == ThemeMode.dark ? 'Light mode' : 'Dark mode',
             onPressed: () => appState.toggleTheme(),
           ),
+        ),
+        // Feedback button
+        IconButton(
+          icon: const Icon(Icons.feedback_outlined, color: Colors.white, size: 20),
+          tooltip: 'Send Feedback',
+          onPressed: () {
+            final route = GoRouterState.of(context).uri.toString();
+            FeedbackDialog.show(context, screenshotKey, currentRoute: route);
+          },
         ),
         if (!isWide)
           PopupMenuButton<String>(
