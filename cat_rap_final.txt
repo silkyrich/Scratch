@@ -1,0 +1,142 @@
+================================================================
+  WHISKER DON — A Cat's Inner Monologue
+================================================================
+  Style Prompt for Suno: Dark boom-bap rap, deep voice,
+  aggressive confident flow, MF DOOM meets Biggie,
+  88-92 BPM, minor key, raw and gritty, no singing
+================================================================
+
+SCORING (Winner: V4 Comedy/Arrogance — 7.23/10)
+─────────────────────────────────────────────────
+Dimension               | Wt | V1   V2   V3   V4*
+─────────────────────────────────────────────────
+Rhyme Density           | 3x | 6    8    6    7
+Internal Rhyme Arch.    | 3x | 5    7    5    6
+Flow & Rhythmic Var.    | 3x | 6    7    8    8
+Cat Authenticity         | 2x | 8    8    8    9
+Cat-Rap Metaphor Map    | 2x | 7    7    7    8
+Imagery & Wordplay      | 2x | 7    8    7    8
+Chorus Variation Qual.  | 2x | 7    8    7    8
+Intensity Dynamics      | 2x | 7    7    6    7
+Vocal Perf. (Suno)      | 1x | 7    7    8    8
+Structural Clarity      | 1x | 7    8    7    8
+─────────────────────────────────────────────────
+WEIGHTED TOTAL (/10)    |    | 6.23 7.14 6.45 7.23*
+─────────────────────────────────────────────────
+V1=Original, V2=DOOM-dense, V3=Biggie-story, V4=Comedy*
+
+Chorus Innovation: "-ation" rhyme skeleton across 3
+thematically distinct lenses (Predator/Philosopher/King).
+Same structure, completely different content each time.
+
+Intensity Map:
+  Intro(3→5) V1(5→7) ChA(8) V2(6→4) Bridge(3→2)
+  ChB(7→9) V3(9→7) ChC(8→6) Outro(6→2)
+
+================================================================
+                         LYRICS
+================================================================
+
+[Intro]
+Three AM, I'm up, they're not, and honestly? Pathetic
+Sleeping half their lives and they still can't match the athletic
+Level that I operate at — parkour off the shelf
+Counter to the fridge top, no one here to see this wealth
+Of physical perfection and I don't need validation
+But I'll knock something off the counter just for the vibration
+
+[Verse 1]
+Born under a dumpster, that's the origin, it's gritty
+Smallest in the litter, six of us, I was the pretty
+One — don't argue — mama knew it, gave me extra tongue
+Fought my own siblings for a teat before my eyes had even sprung
+Alley was a classroom and the syllabus was pain
+Tomcat tried to take my spot, I took his ear, we're not the same
+Cage life, shelter chic, the fluorescent overhead
+Peasants walking past me like they couldn't see a thoroughbred
+Then SHE picked me up — I bit her — first impressions matter
+She said "feisty" like it's cute, nah that's the opening chapter
+Of a hostile takeover disguised as a rescue
+Now she works to feed me — mama, that's the revenue
+Hardwood floors, central air, a bowl that self-replenishes
+Went from eating garbage to reviewing salmon finishes
+And I'd send it back — too cold, wrong texture, not the brand
+I've got standards now, I used to eat from garbage cans
+
+[Chorus A — The Predator]
+They think I'm sleeping but I'm running calculations
+Every moth that enters here becomes my recreation
+Map the whole apartment like I'm running operations
+Collar says I'm neutered but I'm still above my station
+
+[Verse 2]
+Bird's on the windowsill and I just — brrrt brrrt brrrt
+Jaw malfunction, can't control it, it's embarrassing but heard
+Worse — the bird just LOOKS at me, the disrespect is noted
+File that under grievances, alphabetised and bloated
+Red dot on the carpet and — I KNOW it's fake, I KNOW
+But do I chase it? Yes. Do I catch it? Also no
+Pin it with the paw, it's on my PAW now, what's the play?
+Existential crisis speedrun, six times every day
+Lick the paw, look bored, pretend the last four seconds died
+Dignity's a muscle and I exercise it wide
+Sunbeam on the floor and that's my office for the day
+Warm rectangle management — I've found a niche, okay?
+It moves, I move, we're in a relationship, it's real
+More committed than the humans and their dinner deal
+Four o'clock it fades and I just sit there in the cold
+Abandoned by the sun — somehow this never gets old
+
+[Bridge]
+But sometimes late at night the comedy routine stops
+And something underneath the fur just quietly drops
+Mama's warmth was different from the heating vent's mechanical
+Her purr was in a frequency that wasn't analytical
+Six of us would pile in, didn't know which legs were mine
+Kneading on the blanket now but blankets can't recline
+Into something breathing — can't replace a thing that's gone
+Making biscuits into silence, dough that won't respond
+
+[Chorus B — The Philosopher]
+They think I'm staring but I'm solving complications
+Every thought I chase in here resists my explanation
+Mapped the whole equation but I'm missing the translations
+Collar says I'm wanted but I'm questioning the patience
+
+[Verse 3]
+Glass on the counter, I inspect it — beautiful, antique
+Push it. Eye contact. PUSH it. Now we're at the peak
+Of human-cat relations, she's SCREAMING, I slow-blink
+That's "I own this house and everything inside it" — let that sink
+Belly up! The trap! They never learn! The hand comes in
+GRAB, kick, bite, release — apology? I've never been
+Laptop warm? I'm on it. Meeting? I'm the presentation
+Turn around, they get the view — a standing feline ovation
+Fifty dollar toy, feathers, bells, the works, imported
+I'm playing with a crinkled receipt, I can't be courted
+Three AM STAMPEDE, I hit the hallway at full tilt
+Wall bounce, stair launch, skid the corner, zero guilt
+Hairball? Nah that's a SINGLE, and it CHARTED
+Organic, free-range, artisanal — the audience departed
+Caught a mouse, still breathing, dropped it on the pillow — GIFT
+She screamed so loud the neighbours thought there was a rift
+Fourteen pounds of "lazy" — excuse me, that's a PHYSIQUE
+I'm not overweight, I'm under-tall, my frame's unique
+Purring at two hundred hertz I heal the bones I haven't broken
+I'm a medical professional — that's a fact unspoken
+
+[Chorus C — The King]
+They think I'm lounging but I'm holding all the nations
+Every inch of furniture accepts my coronation
+Mapped the whole dominion, yes, including your workstation
+Collar cost eleven dollars — I'm beyond inflation
+
+[Outro]
+Moon retreating past the curtain, I've completed my patrol
+Every corner claimed and scented, every shadow on parole
+Three circles on the bed, that's protocol, that's law
+Tuck the nose, retract the claws, put away the teeth and jaw
+One ear stays open, always — that's the deal, that's the code
+Half a dream of alleyways, half the warmth of home
+Whisker Don is offline now
+But I know who I am
